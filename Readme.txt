@@ -1,5 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+Template Name:Unveiling ipl insights
 Website Link:https://cricket-insights.netlify.app/
+This is an Insights of and IPL.
+
